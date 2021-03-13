@@ -1,4 +1,4 @@
-package ArraySort.exchangeSort;
+package ArraySort;
 
 public class ExchangeSort {
 	
