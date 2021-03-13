@@ -1,4 +1,4 @@
-package ArraySort.insertionSort;
+package ArraySort;
 
 public class InsertionSort {
 
