@@ -1,4 +1,4 @@
-package arraySort.bruteForceSort;
+package arraySort;
 
 import java.util.Comparator;
 
