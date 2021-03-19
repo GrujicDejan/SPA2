@@ -1,4 +1,4 @@
-package hashSet;
+package adtHashSet;
 
 public class Student {
 	private String index, fName, lName;
