@@ -1,4 +1,4 @@
-package hashSet;
+package adtHashSet;
 
 public class CHashSet<T> implements Set<T> {
 	
