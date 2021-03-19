@@ -1,4 +1,4 @@
-package hashSet;
+package adtHashSet;
 
 public class ExIntegerSet {
 	public static void main(String[] args) {
