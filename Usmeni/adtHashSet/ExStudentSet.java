@@ -1,4 +1,4 @@
-package hashSet;
+package adtHashSet;
 
 public class ExStudentSet {
 	public static void main(String[] args) {
